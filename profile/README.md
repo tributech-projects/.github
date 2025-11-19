@@ -1,5 +1,5 @@
 
-<img width="4477" height="1587" alt="Branco fundo Cinza _ Logotipo Ecossistema Tributech – Horizontal" src="https://github.com/user-attachments/assets/d4e70580-6f76-4b20-9eaa-17b52a5e33a7" />
+<img width="4477" height="1587" alt="Branco fundo Cinza _ Logotipo Ecossistema Tributech – Horizontal" src="https://github.com/user-attachments/assets/a7d1753f-ee1a-4efd-86fd-ad0ff307efd3" />
 
 # Tributech Projects
 
