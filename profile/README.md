@@ -1,7 +1,7 @@
 
 <img width="4477" height="1587" alt="Branco fundo Cinza _ Logotipo Ecossistema Tributech – Horizontal" src="https://github.com/user-attachments/assets/a7d1753f-ee1a-4efd-86fd-ad0ff307efd3" />
 
-# Tributech Projects
+# Tributech REPO
 
 > Hub central dos projetos da Tributech: integradores, APIs, data & infra. Este repositório organiza nossos repos e define padrões para criação e manutenção.
 
